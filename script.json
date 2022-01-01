@@ -1,0 +1,84 @@
+{
+    "menu": [
+      {
+        "jenis": "Makanan",
+        "nama": "Tutug Oncom",
+        "deskripsi": "Makanan Khas Bandung, Bebas piih lauk sendiri",
+        "harga": "25000,-",
+        "estimasi": "20 menit",
+        "gambar": "nasiTO.jpg"
+      },
+      {
+        "jenis": "Makanan",
+        "nama": "Nasi Kuning",
+        "deskripsi": "Nasi Kuning Dengan Bumbu Khas, Bebas Pilih Lauk",
+        "harga": "20000,-",
+        "estimasi": "10 menit",
+        "gambar": "nasKUN.jpg"
+      },
+      {
+        "jenis": "Makanan",
+        "nama": "Nasi Liwet",
+        "deskripsi": "Nasi Liwet, Cumi, Ayam, Peda",
+        "harga": "30000,-",
+        "estimasi": "17 menit",
+        "gambar": "nasLIW.jpg"
+      },
+      {
+        "jenis": "Makanan",
+        "nama": "Nasi Goreng",
+        "deskripsi": "Nasi Goreng, Telur, Ayam, Kambing",
+        "harga": "25000,-",
+        "estimasi": "10 menit",
+        "gambar": "nasGOR.jpg"
+      },
+      {
+        "jenis": "Minuman",
+        "nama": "Es Teh Manis",
+        "deskripsi": "Es Teh Manis, bebas pilih gula",
+        "harga": "7000,-",
+        "estimasi": "4 menit",
+        "gambar": "esteh.jpg"
+      },
+      {
+        "jenis": "Minuman",
+        "nama": "Aneka Juice",
+        "deskripsi": "Pilihan Buah : Alpukat, Jeruk, Semangka",
+        "harga": "15000,-",
+        "estimasi": "6 menit",
+        "gambar": "juice.jpg"
+      },
+      {
+        "jenis": "Minuman",
+        "nama": "Kopi",
+        "deskripsi": "Pilihan : Kopi hitam, Kopi Susu",
+        "harga": "8000,-",
+        "estimasi": "5 menit",
+        "gambar": "kopi.jpg"
+      },
+      {
+        "jenis": "Dessert",
+        "nama": "Puding",
+        "deskripsi": "Puding lembut dan yummy",
+        "harga": "5000,-",
+        "estimasi": "2 menit",
+        "gambar": "puding.jpg"
+      },
+      {
+        "jenis": "Dessert",
+        "nama": "Kue Lapis",
+        "deskripsi": "Lapis Manis dan lembut",
+        "harga": "6000,-",
+        "estimasi": "25 menit",
+        "gambar": "lapis.jpg"
+      },
+      {
+        "jenis": "Dessert",
+        "nama": "Rujak Buah",
+        "deskripsi": "Aneka Buah-buahan segar",
+        "harga": "15000,-",
+        "estimasi": "9 menit",
+        "gambar": "rujak.jpg"
+      }
+    ]
+  }
